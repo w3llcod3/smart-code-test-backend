@@ -17,10 +17,6 @@
   "scripts": {
     "dev": "nodemon server"
   },
-  "engines": {
-    "node": "16.17.0",
-    "yarn": "1.22.15"
-  },
   "devDependencies": {
     "eslint": "^8.33.0"
   }
